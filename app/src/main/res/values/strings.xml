@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeToClose</string>
+    <string name="title_activity_popup">PopupActivity</string>
+    <string name="hello_world">Hello World</string>
+</resources>
